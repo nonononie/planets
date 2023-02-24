@@ -1,1 +1,2 @@
-dont include .passwd
+*.passwd
+phi/
